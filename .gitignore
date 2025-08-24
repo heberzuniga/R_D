@@ -1,0 +1,20 @@
+# Streamlit/cache and Python artifacts
+.streamlit/secrets.toml
+.streamlit/*.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Local state and large inputs
+games/
+assets/
+*.csv
+*.xlsx
+*.zip
+*.docx
+*.pdf
